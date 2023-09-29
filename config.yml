@@ -1,0 +1,3 @@
+palette: "@%#*+=-:. " #order from denser to sparser character
+res_x: 80 #horizontal resolution
+res_y: 80 #vertical resolution
